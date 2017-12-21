@@ -1,0 +1,12 @@
+* { box-sizing:border-box; }
+
+body {
+  background-color: #191919;
+  text-align: center;
+  color: #fff;
+  text-decoration: none;
+}
+.body {
+  height: 1000px;
+}
+p { margin:0; }
